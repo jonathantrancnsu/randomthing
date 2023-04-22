@@ -104,8 +104,8 @@
 }
 
 /* Any custom CSS below here */
-<style>
-                            @import url('https://fonts.cdnfonts.com/css/typold');
-</style>
-                
-
+@import url('https://fonts.cdnfonts.com/css/typold');
+    body {
+        font-family: 'Typold', 'Typold Condensed';
+        font-weight: normal;
+    }
